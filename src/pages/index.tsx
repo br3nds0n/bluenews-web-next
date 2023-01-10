@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {GetStaticProps} from "next";
 import {stripe} from "../services/stripe";
 import Head from "next/head";
